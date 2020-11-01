@@ -1,0 +1,5 @@
+.body{
+    padding: 30px;
+    flex: 0.8;
+    background: linear-gradient(rgba(91, 87, 115), black);
+}
